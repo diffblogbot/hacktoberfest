@@ -1,14 +1,14 @@
 [
     {
-        "username": "goodfeli",
+        "github_username": "goodfeli",
         "blog_url": "http://www.iangoodfellow.com/blog/"
     },
     {
-        "username": "fchollet",
+        "github_username": "fchollet",
         "blog_url": "https://medium.com/@francois.chollet"
     },
     {
-        "username": "fastai",
+        "github_username": "fastai",
         "blog_url": "https://www.fast.ai"
     }
 ]
