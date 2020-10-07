@@ -10,5 +10,9 @@
     {
         "github_username": "fastai",
         "blog_url": "https://www.fast.ai"
+    },
+    {
+        "github_username": "IndicoDataSolutions",
+        "blog_url": "https://indico.io/blog/"
     }
 ]
