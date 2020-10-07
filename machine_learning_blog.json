@@ -1,0 +1,14 @@
+[
+    {
+        "username": "goodfeli",
+        "blog_url": "http://www.iangoodfellow.com/blog/"
+    },
+    {
+        "username": "fchollet",
+        "blog_url": "https://medium.com/@francois.chollet"
+    },
+    {
+        "username": "fastai",
+        "blog_url": "https://www.fast.ai"
+    }
+]
