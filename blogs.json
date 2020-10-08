@@ -1,50 +1,13 @@
 {
-    "HackerNews": [
-        "https://blog.ycombinator.com/feed/",
-        [
-            "Startups"
-        ]
-    ],
-    "NickCraver": [
-        "https://nickcraver.com/blog/",
-        [
-            "Web Development",
-            "Distributed Systems"
-        ]
-    ],
-    "a16z": [
-        "https://a16z.com/",
-        [
-            "Startups"
-        ]
-    ],
-    "acolyer": [
-        "https://blog.acolyer.org",
-        [
-            "Computer Science Theory"
-        ]
-    ],
     "airbnb": [
         "https://medium.com/airbnb-engineering",
         [
+            "Distributed Systems",
             "Machine Learning",
             "Web Development",
-            "Distributed Systems",
             "Design",
             "App Development",
             "Data Science",
-            "Engineering Team Blogs"
-        ]
-    ],
-    "akkana": [
-        "http://shallowsky.com/blog/",
-        [
-            "System Programming"
-        ]
-    ],
-    "algolia": [
-        "https://blog.algolia.com/feed/",
-        [
             "Engineering Team Blogs"
         ]
     ],
@@ -52,7 +15,7 @@
         "https://developer.amazon.com/blogs/home/feed/entries/atom",
         [
             "Engineering Team Blogs",
-            "Distributed Systems",
+            "Distributed Systems"
         ]
     ],
     "antirez": [
@@ -74,59 +37,35 @@
             "Engineering Team Blogs"
         ]
     ],
-    "areknawo": [
-        "https://areknawo.com/rss/",
-        [
-            "Javascript",
-            "Web Development"
-        ]
-    ],
-    "bagder": [
-        "https://daniel.haxx.se/blog/feed/",
-        [
-            "System Programming",
-            "Networking"
-        ]
-    ],
-    "basecamp": [
-        "https://m.signalvnoise.com/feed/",
-        [
-            "Startups"
-        ]
-    ],
-    "bbc": [
-        "https://medium.com/feed/bbc-design-engineering",
-        [
-            "Engineering Team Blogs"
-        ]
-    ],
-    "benjojo": [
-        "https://blog.benjojo.co.uk/rss.xml",
-        [
-            "Cybersecurity",
-            "Networking"
-        ]
-    ],
-    "bitcoin": [
-        "https://bitcoin.org/en/blog",
-        [
-            "Cryptocurrency",
-            "Decentralized Web",
-        ]
-    ],
-    "brainwane": [
-        "https://www.harihareswara.net/",
-        [
-            "Open Source",
-            "Python"
-        ]
-    ],
     "cloudera": [
         "https://blog.cloudera.com/feed/",
         [
             "Distributed Systems",
             "Engineering Team Blogs",
             "Networking"
+        ]
+    ],
+    "cloudflare": [
+        "https://blog.cloudflare.com/rss/",
+        [
+            "Engineering Team Blogs",
+            "Networking",
+            "Distributed Systems",
+            "Networking"
+        ]
+    ],
+    "cockroachdb": [
+        "https://www.cockroachlabs.com/blog/index.xml",
+        [
+            "Open Source",
+            "Web Development",
+            "Distributed Systems"
+        ]
+    ],
+    "coding-horror": [
+        "https://blog.codinghorror.com/",
+        [
+            "Web Development"
         ]
     ]
 }
