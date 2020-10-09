@@ -82,5 +82,12 @@
         [
             "Engineering Team Blogs"
         ]
+    ],
+    "cisco": [
+        "https://medium.com/cisco-the-network/",
+        [
+            "Machine Learning",
+            "Networking"
+        ]
     ]
 }
