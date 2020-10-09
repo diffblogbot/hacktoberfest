@@ -11,6 +11,12 @@
             "Engineering Team Blogs"
         ]
     ],
+    "aListApart": [
+        "https://alistapart.com/",
+        [
+            "Web Development"
+        ]
+    ],
     "amzn": [
         "https://developer.amazon.com/blogs/home/feed/entries/atom",
         [
@@ -81,6 +87,14 @@
         "https://engineering.linecorp.com/en/blog/",
         [
             "Engineering Team Blogs"
+        ]
+    ],
+    "softwareEngineeringDaily": [
+        "https://softwareengineeringdaily.com/",
+        [
+            "Web Development",
+            "Data Science",
+            "Machine Learning"
         ]
     ]
 }
