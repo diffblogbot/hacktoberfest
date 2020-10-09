@@ -68,6 +68,15 @@
             "Web Development"
         ]
     ],
+    "DigitalOcean": [
+        "https://www.digitalocean.com/blog/tag/engineering/",
+        [
+            "Web Development",
+            "Distributed Systems",
+            "Machine Learning",
+            "Open Source"
+        ]
+   ],
     "line": [
         "https://engineering.linecorp.com/en/blog/",
         [
