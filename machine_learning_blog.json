@@ -27,4 +27,12 @@
         "github_username": "robiriondo",
         "blog_url": "https://medium.com/@robiriondo"
     }
+    {
+        "github_username": "jbrownlee",
+        "blog_url": "https://machinelearningmastery.com/blog/"
+    }
+    {
+        "github_username": "alshedivat",
+        "blog_url": "https://blog.ml.cmu.edu/"
+    }
 ]
