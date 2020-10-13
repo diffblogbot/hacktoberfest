@@ -68,6 +68,13 @@
             "Distributed Systems"
         ]
     ],
+    "Cocoacasts": [
+        "https://cocoacasts.com/blog/",
+        [
+            "Swift",
+            "iOS Development",
+        ]
+    ],
     "coding-horror": [
         "https://blog.codinghorror.com/",
         [
