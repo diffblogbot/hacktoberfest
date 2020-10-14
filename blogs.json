@@ -83,12 +83,34 @@
             "Open Source"
         ]
    ],
+   "JetBrains": [
+		"https://blog.jetbrains.com/",
+		[
+			"Engineering Team Blogs"
+		]
+   ],
     "line": [
         "https://engineering.linecorp.com/en/blog/",
         [
             "Engineering Team Blogs"
         ]
     ],
+	"openjdk": [
+		"https://inside.java/",
+		[
+			"Engineering Team Blogs",
+			"Programming Languages"
+		]
+	],
+	"phauer": [
+		"https://phauer.com/",
+		[
+			"Web Development",
+			"Distributed Systems",
+			"Programming Languages",
+			"Design"
+		]
+	],
     "softwareEngineeringDaily": [
         "https://softwareengineeringdaily.com/",
         [
