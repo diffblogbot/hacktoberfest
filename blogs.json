@@ -91,11 +91,11 @@
         ]
    ],
    "JetBrains": [
-	"https://blog.jetbrains.com/",
-	[
-	    "Engineering Team Blogs"
-	]
-   ],
+        "https://blog.jetbrains.com/",
+        [
+            "Engineering Team Blogs"
+        ]
+    ],
     "line": [
         "https://engineering.linecorp.com/en/blog/",
         [
@@ -103,20 +103,20 @@
         ]
     ],
     "openjdk": [
-	"https://inside.java/",
-	[
-	    "Engineering Team Blogs",
-    	    "Programming Languages"
-	]
+        "https://inside.java/",
+        [
+            "Engineering Team Blogs",
+            "Programming Languages"
+        ]
     ],
     "phauer": [
-	"https://phauer.com/",
-	[
-	    "Web Development",
-	    "Distributed Systems",
-	    "Programming Languages",
-	    "Design"
-	]
+        "https://phauer.com/",
+        [
+            "Web Development",
+            "Distributed Systems",
+            "Programming Languages",
+            "Design"
+        ]
     ],
     "softwareEngineeringDaily": [
         "https://softwareengineeringdaily.com/",
