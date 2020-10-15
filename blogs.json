@@ -68,6 +68,13 @@
             "Distributed Systems"
         ]
     ],
+    "Cocoacasts": [
+        "https://cocoacasts.com/blog/",
+        [
+            "Swift",
+            "iOS Development",
+        ]
+    ],
     "coding-horror": [
         "https://blog.codinghorror.com/",
         [
@@ -95,6 +102,27 @@
             "Web Development",
             "Data Science",
             "Machine Learning"
+        ]
+    ],
+    "zero-to-mastery": [
+        "https://zerotomastery.io/blog/?tag=WDM",
+        [
+            "Open Source",
+            "Web Development",
+            "Design",
+            "App Development",
+            "Programming Languages",
+            "Game Development"
+        ]
+    ],
+    "zero-to-mastery": [
+        "https://zerotomastery.io/blog/?tag=PM",
+        [
+            "Open Source",
+            "Web Development",
+            "App Development",
+            "Programming Languages",
+            "Game Development"
         ]
     ]
 }
