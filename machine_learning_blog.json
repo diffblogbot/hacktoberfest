@@ -38,5 +38,13 @@
     {
         "github_username": "odewahn",
         "blog_url": "https://petewarden.com"
+    },
+    {
+        "github_username": "hackerearth",
+        "blog_url": "https://www.hackerearth.com/blog/machine-learning/"
+    },
+    {
+        "github_username": "semanti-ca",
+        "blog_url": "https://semanti.ca/blog/"
     }
 ]
