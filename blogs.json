@@ -81,6 +81,15 @@
             "Web Development"
         ]
     ],
+    "darkwing": [
+        "https://davidwalsh.name/",
+        [
+            "Web Development",
+            "Open Source",
+            "Programming Languages",
+            "Game Development"
+        ]
+    ],
     "DigitalOcean": [
         "https://www.digitalocean.com/blog/tag/engineering/",
         [
@@ -96,6 +105,13 @@
             "Engineering Team Blogs"
         ]
     ],
+    "mjhea0": [
+        "https://mherman.org/",
+        [
+            "Web Development",
+            "Programming Languages"
+        ]
+    ],    
     "softwareEngineeringDaily": [
         "https://softwareengineeringdaily.com/",
         [
