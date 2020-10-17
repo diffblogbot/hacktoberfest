@@ -153,8 +153,8 @@
             "Game Development"
         ]
     ],
-    "pinterest": [
-        "https://medium.com/@Pinterest_Engineering",
+    "sentry": [
+        "https://blog.sentry.io/",
         [
             "Open Source",
             "SEO",
@@ -162,7 +162,8 @@
             "Web Development",
             "App Development",
             "Machine Learning",
-            "Company Stories"
+            "Company Stories",
+            "DevOps"
         ]
     ]
 }
