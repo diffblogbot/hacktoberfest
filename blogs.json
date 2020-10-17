@@ -152,5 +152,17 @@
             "Programming Languages",
             "Game Development"
         ]
+    ],
+    "pinterest": [
+        "https://medium.com/@Pinterest_Engineering",
+        [
+            "Open Source",
+            "SEO",
+            "Quality Assurance",
+            "Web Development",
+            "App Development",
+            "Machine Learning",
+            "Company Stories"
+        ]
     ]
 }
