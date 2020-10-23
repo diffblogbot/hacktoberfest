@@ -90,10 +90,46 @@
             "Open Source"
         ]
    ],
+    "Hack-a-Day": [
+        "https://hackaday.com/blog/",
+        [
+            "Hardware"
+        ]
+    ],
+   "JetBrains": [
+        "https://blog.jetbrains.com/",
+        [
+            "Engineering Team Blogs"
+        ]
+    ],
     "line": [
         "https://engineering.linecorp.com/en/blog/",
         [
             "Engineering Team Blogs"
+        ]
+    ],
+    "openjdk": [
+        "https://inside.java/",
+        [
+            "Engineering Team Blogs",
+            "Programming Languages"
+        ]
+    ],
+    "phauer": [
+        "https://phauer.com/",
+        [
+            "Web Development",
+            "Distributed Systems",
+            "Programming Languages",
+            "Design"
+        ]
+    ],
+    "smashingmagazine": [
+        "https://www.smashingmagazine.com/articles/",
+        [
+            "Web Development",
+            "Design",
+            "App Development"
         ]
     ],
     "softwareEngineeringDaily": [
@@ -123,6 +159,19 @@
             "App Development",
             "Programming Languages",
             "Game Development"
+        ]
+    ],
+    "sentry": [
+        "https://blog.sentry.io/",
+        [
+            "Open Source",
+            "SEO",
+            "Quality Assurance",
+            "Web Development",
+            "App Development",
+            "Machine Learning",
+            "Company Stories",
+            "DevOps"
         ]
     ]
 }
