@@ -43,6 +43,15 @@
             "Engineering Team Blogs"
         ]
     ],
+    "bennadel": [
+        "https://www.bennadel.com/",
+        [
+            "Open Source",
+            "Web Development",
+            "System Programming",
+            "Programming Languages"
+        ]
+    ],
     "cloudera": [
         "https://blog.cloudera.com/feed/",
         [
@@ -138,6 +147,15 @@
             "Web Development",
             "Data Science",
             "Machine Learning"
+        ]
+    ],
+    "vikobg": [
+        "https://firstclassjs.com/",
+        [
+            "Open Source",
+            "Web Development",
+            "App Development",
+            "Programming Languages"
         ]
     ],
     "zero-to-mastery": [
