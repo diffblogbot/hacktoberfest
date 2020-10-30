@@ -90,6 +90,12 @@
             "Web Development"
         ]
     ],
+    "css-tricks": [
+        "https://css-tricks.com/",
+        [
+            "Web Development"
+        ]
+    ],
     "DigitalOcean": [
         "https://www.digitalocean.com/blog/tag/engineering/",
         [
@@ -99,6 +105,12 @@
             "Open Source"
         ]
    ],
+   "go-make-things": [
+        "https://gomakethings.com/articles/",
+        [
+            "Web Development"
+        ]
+    ],
     "Hack-a-Day": [
         "https://hackaday.com/blog/",
         [
