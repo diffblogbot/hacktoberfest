@@ -192,4 +192,14 @@
             "DevOps"
         ]
     ]
+    "hackbrightacademy": [
+        "https://hackbrightacademy.com/blog/",
+        [
+            "Engineering Team Blogs",
+            "Design",
+            "Programming Languages",
+            "Web Developmen",
+            "Startups",
+        ]
+    ]
 }
