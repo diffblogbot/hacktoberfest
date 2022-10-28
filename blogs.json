@@ -191,5 +191,18 @@
             "Company Stories",
             "DevOps"
         ]
+    ],
+    "martinfowler": [
+        "https://martinfowler.com/"
+        [
+            "Architecture",
+            "Refactoring",
+            "Agile",
+            "Delivery",
+            "Microservices",
+            "Data",
+            "Testing",
+            "DSL"
+        ]
     ]
 }
